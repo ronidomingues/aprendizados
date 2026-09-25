@@ -112,8 +112,10 @@ Cada computador precisa da própria configuração:
 
 - **SSH:** gere uma chave por máquina e cadastre **cada uma** como *Signing
   Key* no GitHub. É mais seguro que copiar a chave privada entre máquinas.
+  Passo a passo em [7. Reutilizando a chave SSH](07-reutilizando-ssh.md).
 - **GPG:** importe o backup da chave (`gpg --import`) ou crie uma subchave por
-  máquina.
+  máquina. Passo a passo em
+  [6. Reutilizando a chave GPG](06-reutilizando-gpg.md).
 
 ## 3.4 Commits feitos pela interface do GitHub
 

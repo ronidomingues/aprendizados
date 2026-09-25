@@ -36,6 +36,8 @@ O GitHub confere essa assinatura e mostra:
 4. [Usando e verificando assinaturas no dia a dia](03-uso-diario.md)
 5. [Assinando commits que já existem](04-assinando-commits-existentes.md)
 6. [Resolução de problemas](05-problemas-comuns.md)
+7. [Reutilizando a chave GPG em outra máquina](06-reutilizando-gpg.md)
+8. [Reutilizando a chave SSH em outra máquina](07-reutilizando-ssh.md)
 9. [Relato: como eu configurei](08-relato.md) ← o que eu fiz, errei e aprendi
 
 ## Resumo rápido (SSH)

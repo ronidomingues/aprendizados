@@ -160,4 +160,4 @@ git config --global --unset tag.gpgsign
 - [Documentação do Git — `git config` (seções `gpg.*`)](https://git-scm.com/docs/git-config#Documentation/git-config.txt-gpgformat)
 - [Pro Git — Assinando seu trabalho](https://git-scm.com/book/pt-br/v2/Ferramentas-do-Git-Assinando-o-Seu-Trabalho)
 
-[← Voltar ao índice](README.md)
+Próximo: [6. Reutilizando a chave GPG em outra máquina →](06-reutilizando-gpg.md)
