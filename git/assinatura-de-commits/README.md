@@ -36,7 +36,7 @@ O GitHub confere essa assinatura e mostra:
 4. [Usando e verificando assinaturas no dia a dia](03-uso-diario.md)
 5. [Assinando commits que já existem](04-assinando-commits-existentes.md)
 6. [Resolução de problemas](05-problemas-comuns.md)
-7. [Relato: como eu configurei](06-relato.md) ← o que eu fiz, errei e aprendi
+9. [Relato: como eu configurei](08-relato.md) ← o que eu fiz, errei e aprendi
 
 ## Resumo rápido (SSH)
 
