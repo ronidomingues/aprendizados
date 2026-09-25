@@ -121,6 +121,11 @@ gh ssh-key add ~/.ssh/id_ed25519.pub --type signing --title "notebook-ubuntu (as
 gh ssh-key list
 ```
 
+> ⚠️ A opção `--type` só existe nas versões mais novas do `gh`. Se
+> `gh ssh-key add --help` não mostrar `--type`, cadastre a *Signing Key* pelo
+> site, ou atualize o `gh` pelo
+> [repositório oficial](https://github.com/cli/cli/blob/trunk/docs/install_linux.md).
+
 ## 1.5 Permitir a verificação local (opcional, mas recomendado)
 
 O GitHub já verifica as assinaturas do lado dele. Localmente, porém, o Git não
